@@ -254,7 +254,7 @@ const handleTutorQuestion = async (question: string) => {
       <div className="container mx-auto px-4 py-8">
         <header className="text-center mb-8">
           <div className="flex items-center justify-center mb-4">
-            <Brain className="h-12 w-12 text-indigo-600 mr-3" />
+            <Brain className="h-12 w-1 text-indigo-600 mr-3" />
             <h1 className="text-4xl font-bold text-gray-800">AI Loan Predictor</h1>
           </div>
           <p className="text-xl text-gray-600">AI-powered loan approval prediction with explainable insights</p>
